@@ -1,15 +1,6 @@
 # Project Name
 **0x00. ES6 Basics**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
-
 ### JavaScript Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`.
 *   All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version 14.x).

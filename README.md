@@ -1,12 +1,7 @@
 # Project Name
 **Back-end JavaScript**
 
-## Author's Details
-Name: *Wendy Munyasi.*
 
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
 
 ## Technologies
 * JavaScript scripts written in Bash 5.0.17(1).
